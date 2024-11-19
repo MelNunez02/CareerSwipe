@@ -6,7 +6,7 @@ Submitted by:
 - Melanie Nunez
 - Ruben Reyes
 - Christopher Nasti
-- Jonathon 
+- Jonathon Davis 
 
 Time spent: **X** hours spent in total
 
