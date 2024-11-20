@@ -1,43 +1,48 @@
-CareerSwipe
+# **CareerSwipe**
+
 Table of Contents
-App Overview
-Product Spec
-Wireframes
-Build Notes
-App Overview
+    App Overview
+    Product Spec
+    Wireframes
+    Build Notes
+    App Overview
 
 Description
-CareerSwipe is a swipe-based job matching app that transforms the job search process into an engaging and mobile-first experience. Users can swipe through job postings, upload resumes, and chat with recruiters in real time.
+    CareerSwipe is a swipe-based job-matching app that transforms the job search into an engaging and mobile-first experience. Users can swipe through job postings, upload resumes, and chat with recruiters in real time.
 
-App Evaluation
-Category: Career and Professional Networking
-Mobile: Designed for on-the-go use with swiping and quick actions optimized for mobile.
-Story: Makes job hunting intuitive and engaging, targeting a younger, tech-savvy audience.
-Market: Appeals to job seekers worldwide, offering a modern alternative to platforms like LinkedIn.
-Habit: Users will frequently return to check matches, respond to recruiter messages, and explore job recommendations.
-Scope: Feasible for an MVP with scalable potential, starting with basic swiping and expanding to advanced features.
+App Evaluation: CareerSwipe
+  - Category: Career and Professional Networking
+    A modern take on job searching, combining professional networking with intuitive, swipe-based interactions.
+  - Mobile Experience: Designed for quick, on-the-go use with seamless swiping, real-time matches, and mobile-friendly resume uploads.
+  - Story: Revolutionizes job hunting by making it engaging, fast, and fun for younger, tech-savvy users who value convenience and personalization.
+  - Market Potential: Targets the global job-seeking audience, offering a fresh alternative to traditional platforms like LinkedIn with a more casual, user-friendly approach.
+  - User Habit: Encourages regular engagement as users return to swipe through job matches, manage applications, and respond to recruiter outreach.
+  - Scope: Ideal for an MVP with core features like swiping and resume uploads, with the potential to scale into AI-driven job recommendations, recruiter messaging, and networking tools.
 
 Product Spec
 1. User Features (Required and Optional)
 
-Required Features:
-Swipe interface for job postings (swipe right to save, left to skip).
-User account creation and profile setup with resume upload.
+*Required Features:*
+Swipe the interface for job postings (swipe right to save, left to skip).
+Create a user account and set up the profile with a resume upload.
 Job matching algorithm based on user preferences and qualifications.
 Chat feature for real-time recruiter interactions.
 
-Stretch Features:
+*Stretch Features:*
 Integration with job boards like Indeed or LinkedIn.
 AI-driven resume improvement suggestions.
 Video introductions or portfolio showcase for applicants.
 Push notifications for new job matches.
+
 2. Chosen API(s)
+
 Firebase Authentication API
 Enable user sign-up and login functionality.
 Google Cloud Storage API
 Allow users to upload and store resumes.
 LinkedIn Jobs API
 Pull job listings based on user preferences (stretch).
+
 3. User Interaction
 Required Feature:
 
@@ -51,8 +56,10 @@ Optional Feature:
 
 AI resume feedback
 => Suggest improvements to the uploaded resume.
+
 Wireframes
-<!-- Add picture of your hand-sketched wireframes in this section --> <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+-![image](https://hackmd.io/_uploads/B1LJJCjfJe.png)
+
 [BONUS] Digital Wireframes & Mockups
 [BONUS] Interactive Prototype
 Build Notes
@@ -62,7 +69,7 @@ License
 Copyright 2024 Melanie Nunez
 
 Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
+You won't be using this file except in compliance with the License.
 You may obtain a copy of the License at
 
 arduino
