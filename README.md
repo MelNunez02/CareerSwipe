@@ -8,7 +8,7 @@ Submitted by:
 - Christopher Nasti
 - Jonathon Davis 
 
-Time spent: **X** hours spent in total
+Time spent: **24** hours spent in total
 
 ## Summary
 
@@ -27,14 +27,14 @@ The following REQUIRED features are completed:
 
 The following REQUIRED files are included:
 
-- [ ] Included 📄 `brainstorming.md`, which contains:
-  - [ ] Our initial brainstorming ideas (6+ ideas)
-  - [ ] 5-category evaluation of our top 3 ideas
-  - [ ] Final app idea chosen
-- [ ] Included 📄 `project_spec.md`, which contains:
-  - [ ] App Overview: Description and evaluation
-  - [ ] App Spec: User features, Chosen API(s), User Interactions
-  - [ ] Wireframe image(s)
+- [x] Included 📄 `brainstorming.md`, which contains:
+  - [x] Our initial brainstorming ideas (6+ ideas)
+  - [x] 5-category evaluation of our top 3 ideas
+  - [x] Final app idea chosen
+- [x] Included 📄 `project_spec.md`, which contains:
+  - [x] App Overview: Description and evaluation
+  - [x] App Spec: User features, Chosen API(s), User Interactions
+  - [x] Wireframe image(s)
 
 The following BONUS features are implemented:
 
