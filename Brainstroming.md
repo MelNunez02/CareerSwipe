@@ -1,30 +1,30 @@
 *Melanie Nunez App Ideas-*
+
 **CareerSwipe - Dating app for jobs**
 **WhatDoIDo - Tell me what to do app**
 WhatsTheVibe - App that generates a suggested playlist based on the weather
 
 *Christopher Nasti's App Ideas*
+
 **Event Finder App - Discover and join nearby events with GPS-based personalized recommendations.**
 Gig Connect - Find part-time gigs or freelance opportunities with a streamlined application process.
 Hobby Hub - Match with local hobby groups or meetups and earn badges for participation.
 
 *Jonathon Davis's App Ideas*
+
 SkillSwap - Trade skills with others and use a virtual learning board to share resources.
 DailyQuest - Complete daily tasks for productivity and creativity, earning points for rewards.
 BookBuddy - Find book recommendations, track reading, and join local or virtual book clubs.
 
 *Ruben Reyes's App Ideas*
+
 MoodMate - Suggest activities based on your mood and integrate them with wearable devices.
 PocketChef - Create recipes based on available ingredients and share them with a community.
 Local Lens - Share unique photos of landmarks with weekly challenges for city perspectives.
 
-
-
-
-
 -----------------------------------------------------------------
 Top 3:
-    -CareerSwipe
+    -CareerSwipe -> Chosen Idea
     -EventFinder
     -WhatDoIDo
 -----------------------------------------------------------------
@@ -72,7 +72,3 @@ Is a stripped-down version of this app still interesting to build?
 - Event Finder App: Yes, focusing on core functionality like nearby event discovery and notifications is valuable.
 - WhatDoIDo: Yes, the basic idea of providing quick suggestions is appealing in its simplest form.
 How clearly defined is the product you want to build?
-- CareerSwipe: Well-defined with a clear audience and features that align with mobile-first usage.
-Event Finder App: Clear scope for its primary purpose, with potential for further expansion.
-- WhatDoIDo: The concept is clear but would benefit from more detailed feature planning.
-
