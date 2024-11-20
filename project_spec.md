@@ -40,7 +40,7 @@ Firebase Authentication API
 Enable user sign-up and login functionality.
 Google Cloud Storage API
 Allow users to upload and store resumes.
-LinkedIn Jobs API
+Adzuna API - Adzuna’s API includes features like salary benchmarking and job recommendation algorithms, which can align with a candidate's profile (skills, experience, location).
 Pull job listings based on user preferences (stretch).
 
 3. User Interaction
