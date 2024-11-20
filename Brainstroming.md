@@ -20,6 +20,7 @@ Local Lens - Share unique photos of landmarks with weekly challenges for city pe
 
 -----------------------------------------------------------------
 Top 3:
+
     -CareerSwipe -> Chosen Idea
     -EventFinder
     -WhatDoIDo
