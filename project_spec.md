@@ -60,6 +60,8 @@ AI resume feedback
 Wireframes
 
 (https://hackmd.io/_uploads/B1LJJCjfJe.png)
+<img width="696" alt="image" src="https://github.com/user-attachments/assets/d29c305b-e350-4b96-8c92-48ad5daf18a9">
+
 
 [BONUS] Digital Wireframes & Mockups
 [BONUS] Interactive Prototype
