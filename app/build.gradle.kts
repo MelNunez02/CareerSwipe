@@ -35,6 +35,9 @@ android {
 }
 
 dependencies {
+    implementation("androidx.constraintlayout:constraintlayout:2.1.4")
+    implementation("androidx.viewpager2:viewpager2:1.0.0")
+    implementation("com.yuyakaido.android:card-stack-view:2.3.3")
     implementation("androidx.core:core-ktx:1.13.0") // Updated for API 34
     implementation("androidx.appcompat:appcompat:1.7.0")
     implementation("com.google.android.material:material:1.12.0")
