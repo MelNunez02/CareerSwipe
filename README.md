@@ -7,7 +7,7 @@ Submitted by:
 - Christopher Nasti
 - Jonathon Davis 
 
-Time spent: **X** hours spent in total
+Time spent: 48 hours spent in total
 
 ## Summary
 
