@@ -65,6 +65,12 @@ Wireframes
 ![CareerSwipe](https://github.com/user-attachments/assets/85e6d0d1-12b6-4859-b099-f7151d46ad72)
 
 
+
+
+https://github.com/user-attachments/assets/eb7983bd-edaf-4f8d-830c-f6345ffd0627
+
+
+
 [BONUS] Digital Wireframes & Mockups
 [BONUS] Interactive Prototype
 Build Notes
