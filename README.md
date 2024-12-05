@@ -43,9 +43,13 @@ The following EXTRA features are implemented:
 
 Here's a video that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
 
-VIDEO created with **your chosen video tool**
+
+https://github.com/user-attachments/assets/695e0616-eade-45de-92ef-142071169c2c
+
+
+
+VIDEO created with ScreenRec
 
 ## Notes
 
