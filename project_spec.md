@@ -62,6 +62,8 @@ Wireframes
 (https://hackmd.io/_uploads/B1LJJCjfJe.png)
 <img width="696" alt="image" src="https://github.com/user-attachments/assets/d29c305b-e350-4b96-8c92-48ad5daf18a9">
 
+![CareerSwipe](https://github.com/user-attachments/assets/85e6d0d1-12b6-4859-b099-f7151d46ad72)
+
 
 [BONUS] Digital Wireframes & Mockups
 [BONUS] Interactive Prototype
